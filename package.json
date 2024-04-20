@@ -9,6 +9,7 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
+    "preinstall": "npx only-allow pnpm",
     "lint": "eslint --ext .ts,.tsx ."
   },
   "devDependencies": {
@@ -25,8 +26,23 @@
     "vite": "^5.2.10"
   },
   "keywords": [],
-  "author": "me@zengxingqi.com",
+  "engines": {
+    "node": ">=20.12.2"
+  },
+  "author": {
+    "name": "曾星旗",
+    "email": "me@zengxingqi.com",
+    "url": "https://canicode.cn"
+  },
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themages/aibox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themages/aibox/issues"
+  },
+  "homepage": "https://github.com/themages/aibox",
   "dependencies": {
     "electron": "^30.0.1",
     "electron-squirrel-startup": "^1.0.0",
