@@ -16,7 +16,7 @@ export default defineConfig((env) => {
     build: {
       outDir: `.vite/renderer/${name}`,
     },
-    plugins: [vue(), pluginExposeRenderer(name)],
+    plugins: [pluginExposeRenderer(name), vue()],
     resolve: {
       preserveSymlinks: true,
     },

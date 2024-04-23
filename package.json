@@ -9,16 +9,23 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
-    "preinstall": "npx only-allow pnpm",
+    "preinstall": "npx only-allow npm",
     "lint": "eslint --ext .ts,.tsx ."
   },
   "devDependencies": {
+    "@electron-forge/cli": "^7.4.0",
+    "@electron-forge/maker-deb": "^7.4.0",
+    "@electron-forge/maker-rpm": "^7.4.0",
+    "@electron-forge/maker-squirrel": "^7.4.0",
+    "@electron-forge/maker-zip": "^7.4.0",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.4.0",
     "@electron-forge/plugin-fuses": "^7.4.0",
     "@electron-forge/plugin-vite": "^7.4.0",
     "@electron/fuses": "^1.8.0",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@vitejs/plugin-vue": "^5.0.4",
+    "electron": "30.0.1",
     "eslint": "^8.57.0",
     "eslint-plugin-import": "^2.29.1",
     "ts-node": "^10.9.2",
@@ -44,8 +51,33 @@
   },
   "homepage": "https://github.com/themages/aibox",
   "dependencies": {
-    "electron": "^30.0.1",
-    "electron-squirrel-startup": "^1.0.0",
-    "vue": "^3.4.23"
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "config": {
+    "forge": {
+      "plugins": [
+        {
+          "name": "@electron-forge/plugin-vite",
+          "config": {
+            "build": [
+              {
+                "entry": "src/main.ts",
+                "config": "vite.main.config.ts"
+              },
+              {
+                "entry": "src/preload.ts",
+                "config": "vite.preload.config.ts"
+              }
+            ],
+            "renderer": [
+              {
+                "name": "main_window",
+                "config": "vite.renderer.config.ts"
+              }
+            ]
+          }
+        }
+      ]
+    }
   }
 }
