@@ -1,0 +1,36 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg110980" viewBox="0 0 1024 768" height="768px" width="1024px" version="1.1">
+  <metadata id="metadata110986">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs110984"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-6e6d5e01-8715-4fde-bdd0-c3fe6dbbccb6">
+    <stop id="stop110961" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop110963" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-6e6d5e01-8715-4fde-bdd0-c3fe6dbbccb6">
+    <stop id="stop110966" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop110968" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop110970" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" x="272" y="144" width="480" height="480" style="display: none;" transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(0 0)">
+      <image xlink:href="" id="icon_container" style="display: none;" x="0" y="0"></image>
+      <g id="slogan" style="font-style:normal;font-weight:400;font-size:32px;line-height:1;font-family:'Playfair Display';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"></g>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Serif 1 Color';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <g id="path110989" aria-label="I" transform="translate(0 290.007173125) translate(252.83775624999993 76.10904) scale(1.25) translate(-330.36637 72)"> <path class="c1" d="M115.75258,136.00635h-8.55127h-7.20117h-7.20117h-0.00049h-8.55127 c4.72266,0,8.55078-4.5481,8.55127-9.27039v-53.4707c0-4.7229-3.82812-9.27167-8.55127-9.27167h8.55127h7.20166h7.20117h8.55127 c-4.72266,0-8.55127,4.54877-8.55127,9.27167v53.46948C107.20131,131.45758,111.02992,136.00635,115.75258,136.00635z" transform="translate(246.11916 -135.99359)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#606060" stroke="#606060"></path> </g>
+        <g id="path110991" aria-label="^D" transform="translate(0 290.007173125) translate(254.77928124999994 20.972739999999988) scale(1.25) translate(-321.91959 116.10904)"> <path class="c1" d="M156.22681,100.00049c0,31.4516-18.22638,35.99951-30.10114,35.99951 c11.60114,0,14.26141-18.67737,14.26141-35.99951s-2.66028-35.99945-14.26141-35.99945 C138.00043,64.00104,156.22681,68.54895,156.22681,100.00049z M68.8078,19.76392 c24.80243,0.00122,30.35315,30.93109,30.37671,41.06293v65.90326c0,4.72198-3.82788,9.26991-8.54987,9.26991h8.54987h7.19989 h7.19989V64.00104C113.58618,36.18195,95.04565,19.7652,68.8078,19.76392z M53.95386,32.14911 c0.00067-9.95007,9.37134-12.38544,12.26349-12.38531c-7.75092-0.00037-22.4433,4.9801-22.44415,17.82257 c-0.00092,12.84252,16.7246,21.87884,41.76135,15.50561C66.56195,55.98352,53.95319,42.09912,53.95386,32.14911z" transform="translate(278.14639 -135.87284)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#606060" stroke="#606060"></path> </g>
+        <g id="path110993" aria-label="O" transform="translate(0 290.007173125) translate(422.02831874999987 75.33429124999999) scale(1.25) translate(-445.71882 72.619799)"> <path class="c1" d="M77.94691,100c0,19.88574,5.87695,36.7265,18.45239,36.7265c-20.33765,0-33.57495-13.1524-33.57495-36.7265 s13.2373-36.7265,33.57495-36.7265C83.82387,63.2735,77.94691,80.1142,77.94691,100z M103.60072,63.2735 c12.5752,0,18.45239,16.8407,18.45239,36.7265c0,19.88574-5.8772,36.7265-18.45239,36.7265 c20.33765,0,33.5752-13.1524,33.5752-36.7265S123.93837,63.2735,103.60072,63.2735z" transform="translate(382.89447 -135.893299)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#606060" stroke="#606060"></path> </g>
+        <g id="path110995" aria-label="L" transform="translate(0 290.007173125) translate(534.8494687499999 76.10904) scale(1.25) translate(-525.97574 72)"> <path class="c1" d="M92.95766,63.99359h8.55127c-4.72266,0-8.55127,4.54877-8.55127,9.27167v62.74109h-7.20117h-7.20117 h-0.00049h-8.55127c4.72266,0,8.55078-4.5481,8.55127-9.27039v-53.4707c0-4.7229-3.82861-9.27167-8.55127-9.27167h8.55127h7.20166 H92.95766z M111.9933,136.00635h18.00342v-18.00317C129.99672,127.54834,121.53871,136.00635,111.9933,136.00635z" transform="translate(455.97218 -135.99359)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#606060" stroke="#606060"></path> </g>
+        <g id="path110997" aria-label="I" transform="translate(0 290.007173125) translate(634.7127562499999 76.10904) scale(1.25) translate(-595.86637 72)"> <path class="c1" d="M115.75258,136.00635h-8.55127h-7.20117h-7.20117h-0.00049h-8.55127 c4.72266,0,8.55078-4.5481,8.55127-9.27039v-53.4707c0-4.7229-3.82812-9.27167-8.55127-9.27167h8.55127h7.20166h7.20117h8.55127 c-4.72266,0-8.55127,4.54877-8.55127,9.27167v53.46948C107.20131,131.45758,111.02992,136.00635,115.75258,136.00635z" transform="translate(511.61916 -135.99359)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#606060" stroke="#606060"></path> </g>
+        <g id="path110999" aria-label="V" transform="translate(0 290.007173125) translate(693.2999812499999 75.33429124999999) scale(1.25) translate(-632.73615 72.619799)"> <path class="c1" d="M111.85194,136.03528h-5.73706c-5.53711,0-10.38477-3.71667-11.82227-9.06403L79.86293,73.29401 c-1.26978-4.72278-6.32104-9.27142-11.04395-9.27142h8.55151h5.73706h1.46436v0.09778 c4.90967,0.59009,9.04907,4.09711,10.35791,8.96625L111.85194,136.03528z" transform="translate(563.91717 -135.922249)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#606060" stroke="#606060"></path> <path class="c3" d="M131.18098,73.2446c0,5.4909-4.45126,9.94215-9.94215,9.94215c-5.49091,0-9.94215-4.45126-9.94215-9.94215 c0-5.49091,4.45125-9.94215,9.94215-9.94215C126.72973,63.30244,131.18098,67.75369,131.18098,73.2446z" transform="translate(563.91717 -135.922249)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#9b9b9b" stroke="#9b9b9b"></path> </g>
+      </g>
+      <image xlink:href="" id="icon" style="display: none;" x="0" y="0"></image>
+    </g>
+  </g>
+</svg>
